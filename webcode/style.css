@@ -6,6 +6,7 @@ padding-bottom: 100px;
    font-family: 600;
 }
 #input{
+    cursor: pointer;
 border: 1px solid yellow;
 border-radius: 9px;
 height: 50%;
@@ -26,6 +27,7 @@ display: flex;
 justify-content: center;
 
 };
+
 #inputbox{
 padding-top: 30px;
     border: 5px solid blue;
