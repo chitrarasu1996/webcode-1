@@ -6,7 +6,7 @@ const div =document.createElement("div");
 div.setAttribute("id","FisrtDiv");
 
 div.innerHTML=` <div class="p-3 mb-2 bg-success text-white container-fluid ">
-<h1 id="heading">Get the Nationality Based On The Name</h1>
+<h1 id="heading">Get The Nationality Based On The Name</h1>
 <div id="inputbox">
 <div class=" input-group  "id="input">
   <span class="input-group-text" id="basic-addon1" id="Search"  style="color: black;background-color: orange;" onclick="searchHandler()" >Search</span>
